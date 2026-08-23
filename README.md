@@ -60,5 +60,4 @@ dsh plugin --profile web add <本包路径或 miku-pet>
 - 配置/帧请求带缓存破坏参数,素材更新后刷新即生效
 
 ## 许可
-
-MIT(仅含 Miku 素材与代码;素材版权归作者本人所有)
+无
