@@ -16,4 +16,4 @@ window.__ModuleLoader__.load({
 });
 
 // 构建版本标记:模块每次加载(页面加载 / HMR 重载)都会打印,用于确认浏览器跑的是哪版
-console.log('[miku-pet] client build b10-2026-08-23 (all buttons neutral, no blue)');
+console.log('[miku-pet] client build b11-2026-08-23 (shop rows: clear skin box-shadow)');
